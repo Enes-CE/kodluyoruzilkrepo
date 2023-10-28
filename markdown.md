@@ -1,6 +1,6 @@
 # Kodluyoruz İlk Repo
 
-![image](C:\Users\enesu\OneDrive\Masaüstü\ilkrepo\github.png)
+![image](github.png)
 
 "Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End eğitiminde oluşturduğumuz ilk repo. İçeriğinde bir adet
 README dosyası, bir adet de index.html barındırıyor."
